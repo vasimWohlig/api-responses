@@ -4,7 +4,7 @@ package to keep all API standard codes and messages at one place.
 
 How to use : 
 
-Install package using : `npm i git+http://danish.galiyara:NHaBKpsXVkrkQKmUxest@git.vivaconnect.co/helo-whatsapp/api-responses.git`
+Install package using : `npm i github:vasimWohlig/api-response`
 
 After installing there are two options :
 
