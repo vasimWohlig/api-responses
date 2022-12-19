@@ -1,0 +1,10 @@
+{
+  "name": "api-responses",
+  "description": "package to keep all API standard codes and messages at one place.",
+  "version": "1.0.12",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
+
